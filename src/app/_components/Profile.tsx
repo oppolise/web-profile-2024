@@ -9,10 +9,10 @@ const Profile = (props: Props) => {
       <div className="flex justify-center items-center pt-4 pb-2">
         <Image
           src="/unnamed.jpg"
-          width={500}
-          height={500}
+          width={300}
+          height={300}
           alt="profile picture"
-          className="w-3/4 aspect-square rounded-full border-4 border-white"
+          className="w-1/4 aspect-square rounded-full border-4 border-white"
         />
       </div>
       <div className="text-center">
